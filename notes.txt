@@ -1,0 +1,7 @@
+// By default
+// let, const => blocked scope
+// var => Function scope
+
+// this keyword inside
+// method => returns object
+// function => returns global (window object)
